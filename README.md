@@ -2,7 +2,7 @@
 
 Projeto acadêmico em andamento desenvolvido através da video aula do Valdir Ferreira!
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ° Back-End
 - Visual Studio 2022
