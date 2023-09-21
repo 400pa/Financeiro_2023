@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// CLASSE RESPONSÁVEL PARA CUSTOMIZAÇÃO DO IDENTITY //
 namespace Entities.Entidades
 {
     public class ApplicationUser : IdentityUser
